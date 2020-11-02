@@ -8,4 +8,4 @@ def encrypt(phrase):
     return (encryption)
 
 
-print(encrypt(input("Type in a phrase>>>>")))
+print(encrypt(input("Type in a phrase: ")))
